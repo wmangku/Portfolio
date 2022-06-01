@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Wanda Mangkudidjaja</title>
+    <link>https://wmangku.github.io/Portfolio/</link>
+    <description>Recent content in Data Analytics Portfolio on Wanda Mangkudidjaja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://wmangku.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Techionista Holiday</title>
+      <link>https://wmangku.github.io/Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/post/chapter-1/</guid>
+      <description>Techionista Holiday is a e-commerce company for travelling. Techionista Holiday&amp;rsquo;s mission is to make it easy for travellers to organize the perfect trip. On their website, you can book hotel rooms, apartments and other unique stays. As a traveller, you can give reviews and comments on your stay.
+Assignment: Techionista Holiday managers would love to gain more insight into different types of travelers and their feedback. These valuable insights can help them improve Techionista Holiday&amp;rsquo;s website and their capability of catering to their users&amp;rsquo; needs.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: ...</title>
+      <link>https://wmangku.github.io/Portfolio/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/post/chapter-3/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>Project 2: ...</title>
+      <link>https://wmangku.github.io/Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/post/chapter-2/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://wmangku.github.io/Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/about/</guid>
+      <description>Hi! My name is Wanda. Let me tell you my story through my data projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://wmangku.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/wandamangku/   GitHub: https://github.com/wmangku    </description>
+    </item>
+    
+  </channel>
+</rss>

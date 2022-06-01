@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data analysis on Wanda Mangkudidjaja</title>
+    <link>https://wmangku.github.io/Portfolio/tags/data-analysis/</link>
+    <description>Recent content in data analysis on Wanda Mangkudidjaja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://wmangku.github.io/Portfolio/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Techionista Holiday</title>
+      <link>https://wmangku.github.io/Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 12 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/post/chapter-1/</guid>
+      <description>Techionista Holiday is a e-commerce company for travelling. Techionista Holiday&amp;rsquo;s mission is to make it easy for travellers to organize the perfect trip. On their website, you can book hotel rooms, apartments and other unique stays. As a traveller, you can give reviews and comments on your stay.
+Assignment: Techionista Holiday managers would love to gain more insight into different types of travelers and their feedback. These valuable insights can help them improve Techionista Holiday&amp;rsquo;s website and their capability of catering to their users&amp;rsquo; needs.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Wanda Mangkudidjaja</title>
+    <link>https://wmangku.github.io/Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Wanda Mangkudidjaja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://wmangku.github.io/Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: ...</title>
+      <link>https://wmangku.github.io/Portfolio/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://wmangku.github.io/Portfolio/post/chapter-1/</guid>
+      <description>Under construction</description>
+    </item>
+    
+  </channel>
+</rss>
