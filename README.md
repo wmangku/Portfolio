@@ -1,1 +1,1 @@
-# Portfolio: https://wmangku.github.io/Portfolio/
+# Check out my portfolio at https://wmangku.github.io/Portfolio/
