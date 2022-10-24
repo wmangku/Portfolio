@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Analytics Portfolio on Wanda Mangkudidjaja</title>
+    <title>Data Analytics Portfolio on Wanda Mangku</title>
     <link>https://wmangku.github.io/Portfolio/</link>
-    <description>Recent content in Data Analytics Portfolio on Wanda Mangkudidjaja</description>
+    <description>Recent content in Data Analytics Portfolio on Wanda Mangku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://wmangku.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@ Assignment: Techionista Holiday managers would love to gain more insight into di
     </item>
     
     <item>
-      <title>Project 2: ...</title>
+      <title>Project 2: Healthcare Dummy Data analysis with SQL (SSMS)</title>
       <link>https://wmangku.github.io/Portfolio/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
